@@ -37,7 +37,7 @@ Contributing is simple! Whether you're looking to add new features, fix bugs, or
 ## 📅 Event Details
 
 - **Event Duration:** All of **October 2024** ⏳
-- **Repository:** [Tech-Contributor---2024](https://github.com/Tech-Contributor---2024)
+- **Repository:** [Tech-Contributor---2024](https://github.com/hari7261/Tech-Contributor---2024)
 - **Projects:** We are working on multiple repositories, so feel free to browse and choose the ones that align with your interests.
 
 ---
