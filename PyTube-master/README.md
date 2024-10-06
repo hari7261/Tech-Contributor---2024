@@ -1,4 +1,4 @@
-**# SnapTub - YouTube Video & Audio Downloader
+# SnapTub - YouTube Video & Audio Downloader
 
 **SnapTub** is a simple command-line tool for downloading videos and extracting audio from YouTube and other online streaming platforms using the `youtube_dl` library. The script provides an easy-to-use interface to download either video or audio, including entire playlists, in various formats.
 
